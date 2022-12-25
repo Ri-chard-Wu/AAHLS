@@ -1,1 +1,4 @@
-![alt text](https://github.com/Ri-chard-Wu/TCD/tree/main/hw3/images/ppt_p2.jpg?raw=true)
+
+<p align="center">
+  <img src="images/ppt_p2.jpg" alt="test" width="600">
+</p>
