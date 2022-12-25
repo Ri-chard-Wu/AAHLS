@@ -5,6 +5,8 @@
   <img src="images/ppt_p1.jpg" alt="test" width="1200">
 </p>
 
+<p align="center">
+</p>
 
 ## Ideal: Vernier cylic TDC
 
